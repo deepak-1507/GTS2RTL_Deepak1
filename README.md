@@ -87,4 +87,40 @@ Stay tuned for upcoming weeks covering RTL design, synthesis, physical design, a
 
 ✨ **With heartfelt gratitude to** ✨  
 <br>
-<a href="https://www.vlsisystemdesign.com/"><b
+<a href="https://www.vlsisystemdesign.com/"><b>Kunal Ghosh</b></a>  
+and  
+<b>Team VLSI System Design (VSD)</b>  
+for their vision, mentorship, and tireless support throughout the  
+<b>RISC-V SoC Tapeout Program</b>!
+
+<img src="https://img.shields.io/badge/Thank%20You-VSD%20Team-64ffda?style=for-the-badge" alt="Thank You VSD Team Badge">
+
+</div>
+
+---
+
+## 🔗 Useful Links
+
+- [VSD Official](https://www.vlsisystemdesign.com/)
+- [RISC-V International](https://riscv.org/)
+- [EASIESS Platform](https://www.easiest.tech/)
+- [VSD GitHub](https://github.com/vsdip)
+
+---
+
+**Participant:**  
+`Deepak Prabakaran`
+
+---
+
+Thank you for visiting my SoC Tapeout Program journey!  
+Every bit of support, feedback, or encouragement fuels this mission to grow, learn, and contribute to India's silicon future.  
+If you’re on this path too—happy learning, and may your designs always tape out perfectly!
+
+---
+
+> "With each step, we move closer to shaping the future of silicon in India. Let's innovate, collaborate, and tapeout together!"
+
+---
+
+© 2023 RISC-V SoC Tapeout Program | VSD
