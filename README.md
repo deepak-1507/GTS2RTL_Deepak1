@@ -1,97 +1,97 @@
-# RISC-V SoC Tapeout Program | VSD
+# 🚀 RISC-V SoC Tapeout Program – My VSD Journey
 
 ---
 
-> **Welcome, Explorer!**
+> **Greetings, Innovator!**
 >
-> Embarking on the SoC Tapeout Program with VSD is more than just a technical journey—it's a leap into the future of India's semiconductor ecosystem. Here, every week brings new challenges, learnings, and the joy of building something truly impactful, hand-in-hand with 3500+ passionate learners and mentors.
+> Welcome to my chronicles of the VSD RISC-V SoC Tapeout Program—a bold adventure shaping the next wave of India's semiconductor story! Every week brings fresh challenges and discoveries, all shared with a community of 3500+ fellow dreamers and doers.
 >
-> _“In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India's largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation's semiconductor ecosystem.”_
+> _“Here, I’m building a System-on-Chip (SoC) from the ground up—RTL to GDSII—using open-source tools. This is more than a course: it’s India’s largest RISC-V tapeout collaboration, uniting thousands to make real silicon and propel our nation’s tech future.”_
 >
-> This repository documents my week-by-week progress, milestones, and reflections as I grow through this transformative program.
+> Dive in to follow my milestones, lessons, and reflections as I grow through this transformative experience.
 
 ---
 
 <div align="center">
 
-![RISC-V](https://img.shields.io/badge/RISC--V-OpenSource-blue?logo=riscv)
-![SOC TAPEOUT](https://img.shields.io/badge/SOC-TAPEOUT-critical)
-![VSD](https://img.shields.io/badge/VSD-Program-brightgreen)
-![PARTICIPANTS](https://img.shields.io/badge/Participants-3500%2B-blueviolet)
-![MADE IN INDIA](https://img.shields.io/badge/Made%20In-India-orange)
+![RISC-V](https://img.shields.io/badge/RISC--V-Open%20Source-blue?logo=riscv)
+![SoC Tapeout](https://img.shields.io/badge/SoC--Tapeout-critical)
+![VSD](https://img.shields.io/badge/VSD--Program-success)
+![Participants](https://img.shields.io/badge/Participants-3500%2B-violet)
+![Made in India](https://img.shields.io/badge/Made%20in-India-orange)
 
 </div>
 
 ---
 
-## 🏗️ Design Process
+## 🛠️ Silicon Design Workflow
 
-| Step                | Description                                                                 |
+| Phase               | What Happens Here?                                                          |
 |---------------------|-----------------------------------------------------------------------------|
-| **RTL Design**      | Register Transfer Level design using HDLs like Verilog or VHDL.              |
-| **Synthesis**       | Convert RTL into gate-level netlist using logic synthesis tools.             |
-| **Physical Design** | Placement and routing on silicon chip, floorplanning, power & clock design.  |
-| **Tapeout Ready**   | Final verification & preparation for manufacturing (DRC, LVS checks, etc.)   |
+| **RTL Creation**    | Designing at the Register Transfer Level using Verilog/VHDL                  |
+| **Logic Synthesis** | Translating RTL code to a gate-level netlist                                 |
+| **Physical Layout** | Placing & routing components on silicon, power/clock/floorplanning           |
+| **Tapeout Prep**    | Final sign-off: DRC, LVS, and handoff for chip fabrication                   |
 
 ---
 
-## 🎯 Program Objectives & Scope
+## 🎯 Why This Program Matters
 
-| Objective/Scope        | Details                                                                                 |
-|------------------------|-----------------------------------------------------------------------------------------|
-| **Learning Path**      | Complete SoC Design: RTL → Synthesis → Physical Design → Tapeout                        |
-| **Tools Focus**        | Open-Source EDA Ecosystem (Yosys, OpenLane, Magic, etc.)                                |
-| **Industry Relevance** | Real-world semiconductor design methodologies                                           |
-| **Collaboration**      | Part of India's largest RISC-V tapeout initiative                                       |
-| **Scale**              | 3500+ participants contributing to silicon advancement                                  |
-| **National Impact**    | Advancing India's semiconductor ecosystem                                               |
+| Focus Area           | Details                                                                       |
+|----------------------|-------------------------------------------------------------------------------|
+| **Complete Learning**| End-to-end SoC build: RTL → Synthesis → Layout → Tapeout                      |
+| **Open Tools**       | All work done with open-source EDA (Yosys, OpenLane, Magic, and more)         |
+| **Industry Ready**   | Practical, real-world semiconductor design flows                              |
+| **Collaboration**    | Part of India’s record-setting, community-driven RISC-V tapeout initiative    |
+| **Scale**            | 3500+ participants, collective impact on India’s silicon ambitions            |
+| **National Progress**| Contributing to India’s growing semiconductor ecosystem                       |
 
 ---
 
-## 🌱 **Week 0 — Setup & Tools**
+## 🌱 Week Zero: Setting the Stage
 
 <div align="center">
 
-### 📅 Week 0  
-🛠️ <b>Foundation Week:</b> Environment Setup and Tool Installation
+### 📅 Week 0: Foundation  
+🛠️ **Setup Week:** Installing Tools & Getting Ready
 
-> *Laying the groundwork for an exciting journey ahead: configuring environments, installing essential tools, and ensuring a smooth start to the SoC tapeout adventure!*
+> *Building the launchpad—configuring environments and open-source tools to ensure a smooth start to this SoC adventure!*
 
 </div>
 
 ---
 
-## 📅 Weekly Progress Tracker
+## ⏳ Weekly Progress Log
 
-| Week      | Status         | Date         |
-|-----------|:-------------:|:------------:|
-| Week 0    | ✅            | September 20 |
-| Week 1    | ⏳ Coming Soon |              |
-| Week 2    | ⏳ Upcoming    |              |
-| Journey Continues... | 🚗  |              |
+| Week      | Status          | Date         |
+|-----------|:--------------:|:------------:|
+| Week 0    | ✅ Complete     | Sep 20       |
+| Week 1    | 🚧 Coming Soon  |              |
+| Week 2    | 🔜 Upcoming     |              |
+| ...       | 🚗 Stay Tuned   |              |
 
-Stay tuned for upcoming weeks covering RTL design, synthesis, physical design, and final tapeout preparation!
-
----
-
-## 📊 Program Stats
-
-- **Participants:** 3500+
-- **Weeks:** 10
+The journey continues—watch for updates as I dive into RTL design, logic synthesis, physical layout, and finally, tapeout!
 
 ---
 
-## 🌟 Special Acknowledgment
+## 📊 Quick Facts
+
+- **Total Participants:** 3500+
+- **Total Weeks:** 10
+
+---
+
+## 🙏 Grateful Acknowledgment
 
 <div align="center">
 
-✨ **With heartfelt gratitude to** ✨  
+✨ **Special Thanks To:** ✨  
 <br>
 <a href="https://www.vlsisystemdesign.com/"><b>Kunal Ghosh</b></a>  
-and  
-<b>Team VLSI System Design (VSD)</b>  
-for their vision, mentorship, and tireless support throughout the  
-<b>RISC-V SoC Tapeout Program</b>!
+and the  
+**VLSI System Design (VSD) Team**  
+for inspiring, mentoring, and guiding us all through  
+the **RISC-V SoC Tapeout Program**!
 
 <img src="https://img.shields.io/badge/Thank%20You-VSD%20Team-64ffda?style=for-the-badge" alt="Thank You VSD Team Badge">
 
@@ -99,9 +99,9 @@ for their vision, mentorship, and tireless support throughout the
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Useful Resources
 
-- [VSD Official](https://www.vlsisystemdesign.com/)
+- [VSD Official Website](https://www.vlsisystemdesign.com/)
 - [RISC-V International](https://riscv.org/)
 - [EASIESS Platform](https://www.easiest.tech/)
 - [VSD GitHub](https://github.com/vsdip)
@@ -113,13 +113,13 @@ for their vision, mentorship, and tireless support throughout the
 
 ---
 
-Thank you for visiting my SoC Tapeout Program journey!  
-Every bit of support, feedback, or encouragement fuels this mission to grow, learn, and contribute to India's silicon future.  
-If you’re on this path too—happy learning, and may your designs always tape out perfectly!
+Thank you for joining me on this SoC tapeout adventure!  
+Your encouragement, feedback, and camaraderie spark my growth and fuel India’s silicon dreams.  
+Are you on this journey too? Wishing you seamless tapeouts and endless learning!
 
 ---
 
-> "With each step, we move closer to shaping the future of silicon in India. Let's innovate, collaborate, and tapeout together!"
+> “Every design brings us closer to India’s silicon vision. Let’s innovate, collaborate, and make our mark—together!”
 
 ---
 
